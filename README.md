@@ -34,7 +34,7 @@ The app is built with a combination of Java and Kotlin, offering a seamless and 
 - Gradle: For build and dependency management.
 
 ## Project Structure
-Textify_TextScanner_App/
+> Textify_TextScanner_App/
 ├── .gradle/
 ├── .idea/
 ├── app/
