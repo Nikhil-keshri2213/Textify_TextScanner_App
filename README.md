@@ -1,4 +1,4 @@
-![Image}(Textify.png)
+![Image](Textify.png)
 
 # Textify Text Scanner App
 
