@@ -1,3 +1,5 @@
+![Image}(Textify.png)
+
 # Textify Text Scanner App
 
 "Textify is an advanced text scanner application that uses optical character recognition (OCR) to extract text from images. 
